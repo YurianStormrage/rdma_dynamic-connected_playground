@@ -1,0 +1,9 @@
+*
+!*/
+!.gitignore
+!readme
+
+!.gitmodules
+!subproject/**
+
+!CMakeLists.txt
