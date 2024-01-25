@@ -1,1 +1,8 @@
-rdma dc transport demo
+# rdma dc transport demo
+
+## TODO(easy to hard)
+- DCT
+- DCI
+- resource pool
+  - LRU list
+  - pmr support
